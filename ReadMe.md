@@ -28,4 +28,4 @@ The application was publised using [GitHub Pages](https://pages.github.com/). Th
 
 Here is link to view the application:
 
-[Sushil G SASS Mock Social Network App](https://susgupta.github.io/css_accordian_menu/index.html)
+[Sushil G SASS Mock Social Network App](https://susgupta.github.io/sass_mock_social_network_app/index.html)
